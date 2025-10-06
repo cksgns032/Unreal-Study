@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealproject\\unreal-study\\shoot\\plugins\\visualstudiotools\\source\\visualstudiotools\\private\\visualstudiotools.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealproject\\unreal-study\\shoot\\intermediate\\build\\win64\\x64\\shooteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\unrealproject\\unreal-study\\shoot\\plugins\\visualstudiotools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\visualstudiotools\\definitions.visualstudiotools.h",
+            "c:\\unrealproject\\unreal-study\\shoot\\plugins\\visualstudiotools\\source\\visualstudiotools\\public\\visualstudiotools.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

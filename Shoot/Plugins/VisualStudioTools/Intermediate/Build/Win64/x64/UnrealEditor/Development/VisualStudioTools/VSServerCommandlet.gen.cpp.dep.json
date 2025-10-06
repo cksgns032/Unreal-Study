@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealproject\\unreal-study\\shoot\\plugins\\visualstudiotools\\intermediate\\build\\win64\\unrealeditor\\inc\\visualstudiotools\\uht\\vsservercommandlet.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealproject\\unreal-study\\shoot\\intermediate\\build\\win64\\x64\\shooteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\unrealproject\\unreal-study\\shoot\\plugins\\visualstudiotools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\visualstudiotools\\definitions.visualstudiotools.h",
+            "c:\\unrealproject\\unreal-study\\shoot\\plugins\\visualstudiotools\\source\\visualstudiotools\\private\\vsservercommandlet.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\commandlets\\commandlet.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\commandlet.generated.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.44.35207\\include\\string",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.44.35207\\include\\xstring",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.44.35207\\include\\__msvc_sanitizer_annotate_container.hpp",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.44.35207\\include\\__msvc_string_view.hpp",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.44.35207\\include\\xpolymorphic_allocator.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.44.35207\\include\\cctype",
+            "c:\\unrealproject\\unreal-study\\shoot\\plugins\\visualstudiotools\\intermediate\\build\\win64\\unrealeditor\\inc\\visualstudiotools\\uht\\vsservercommandlet.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
