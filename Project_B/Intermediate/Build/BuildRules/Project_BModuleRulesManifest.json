@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealProject\\Unreal-Study\\Project_B\\Source\\Project_B\\Project_B.Build.cs",
+		"C:\\UnrealProject\\Unreal-Study\\Project_B\\Source\\Project_B.Target.cs",
+		"C:\\UnrealProject\\Unreal-Study\\Project_B\\Source\\Project_BEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.0"
+}
